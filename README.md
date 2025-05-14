@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # USSD Bus Tracking System
 
 This system provides a USSD interface for bus tracking, seat booking, and SMS notifications using Africa's Talking platform.
@@ -63,3 +64,6 @@ If you're seeing "No SMS history found" when trying to view SMS history, you can
 ### Back Buttons
 
 Every action in the system has a back button (option 0) that allows users to return to the main menu without completing the current action.
+=======
+# group-3-22rp01692-22RP01917-22rp03334-BusTrack-USSD
+>>>>>>> c64f02a54d3abc2a60d551cc01caf6f5f00ff248
